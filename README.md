@@ -1,6 +1,6 @@
 # Sistema Odontológico
 
-Un proyecto elaborado en PHP (backend y estructura de la web), CSS (estilización en conjunto con JS), JS (manejo de AJAX para la comunicación del front con el back) y PostgreSQL como gestor de bases de datos. Utiliza Composer para la gestión de dependencias y Docker / Docker Compose para orquestar el entorno.
+Un proyecto elaborado en PHP (backend y estructura de la web), CSS (estilización en conjunto con JS), JS (manejo de API REST para la comunicación del front con el back) y PostgreSQL como gestor de bases de datos. Utiliza Composer para la gestión de dependencias y Docker / Docker Compose para orquestar el entorno.
 
 ---
 
